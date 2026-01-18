@@ -17,5 +17,13 @@ The file **Time Domain Complex-valued ViscoAcoustic Wave Equation.pdf** presents
 
 ### ViscoElastic Simulation Results 
 
+![uz](./Images/viscoelastic_uz_comparison.png)
+![ux](./Images/viscoelastic_uz_comparison.png)
+![elastic snapshot](./Images/combined_viscoelastic_t960.png)
+![viscoelastic effects analysis](./Images/difference_plots_t960.png)
+![seismogram](./Images/viscoelastic_seismograms.png)
+![energy](./Images/energy_analysis.png)
+
+
 
 
