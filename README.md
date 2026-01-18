@@ -9,5 +9,5 @@ The file **Time Domain Complex-valued ViscoAcoustic Wave Equation.pdf** presents
 ### ViscoAcoustic Simulation Results 
 
 
-![wavelet](./Images/Ricker_Wavelet.png)
+![wavelet](./Images/Ricker_Wavelet_Hilbert_Transform.png)
 
