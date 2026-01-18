@@ -10,4 +10,11 @@ The file **Time Domain Complex-valued ViscoAcoustic Wave Equation.pdf** presents
 
 
 ![wavelet](./Images/Ricker_Wavelet_Hilbert_Transform.png)
+![snapshot](./Images/ViscoAcoustic_Snapshot.png)
+![combined snapshot](./Images/Combined_ViscoAcoustic.png)
+![viscoacoustic effects analysis](./Images/Viscoacoustic_Effects_Analysis.png)
+![seismogram](./Images/Seismogram_Comparison.png)
+
+
+
 
