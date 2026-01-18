@@ -4,4 +4,6 @@ Starting from the 3D equations of motion for an isotropic linear-elastic (Cauchy
 
 The derived equation provides a computationally efficient framework for viscoelastic seismic modelling, maintaining the key advantages of its visco-acoustic predecessor: **explicit incorporation of the quality factor ($Q$)** and the **natural separation of dispersion and dissipation effects**. This structure significantly simplifies the derivation of $Q$-gradient kernels for **Viscoelastic Full-Waveform Inversion (FWI)** and provides a straightforward mechanism for **attenuation-compensated Reverse-Time Migration (RTM)**. So, this formulation offers significant advantages for seismic imaging and inversion applications. The PDE was successfully tested using numerical simulations on homogeneous and layered models, confirming its accuracy and feasibility for modelling the complex viscoelastic wavefield.
 
-The file **Time Domain Complex-valued ViscoAcoustic Wave Equation.pdf** presents the detailed derivation of the time-domain complex-valed viscoacoustic wave equation as explained in [Yang & Zhu (2008)](https://doi.org/10.1093/gji/ggy323).
+The file **Time Domain Complex-valued ViscoAcoustic Wave Equation.pdf** presents the detailed derivation of the time-domain complex-valed viscoacoustic wave equation as explained in [Yang & Zhu (2008)](https://doi.org/10.1093/gji/ggy323). Simulation results in the **images** folder are based on the methodology explained in the abstract above.
+
+### ViscoAcoustic Simulation Results 
